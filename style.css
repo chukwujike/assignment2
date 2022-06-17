@@ -62,7 +62,7 @@ nav{
     color: white
 }
 
-.two:hover, :active{
+button:hover, :active{
     opacity:0.8
 }
 
